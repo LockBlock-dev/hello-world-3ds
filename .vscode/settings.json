@@ -1,0 +1,5 @@
+{
+    "clangd.arguments": [
+        "--query-driver=**/gcc,**/*-gcc,**/g++,**/*-g++,**/clang,**/clang++"
+    ]
+}

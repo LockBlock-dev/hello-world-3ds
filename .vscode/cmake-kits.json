@@ -1,0 +1,7 @@
+[
+    {
+        "name": "3DS",
+        "toolchainFile": "/opt/devkitpro/cmake/3DS.cmake",
+        "isTrusted": true
+    }
+]
